@@ -1,0 +1,19 @@
+.card{
+  margin-left: 25%;
+  margin-top: 2%;
+  position: relative;
+}
+.names{
+  text-align: center;
+
+}
+.container{
+  border: 2px solid black;
+  width: 50%;
+  margin-left: 25%;
+  border-radius: 50px ;
+  box-shadow: 5px 5px grey ;
+
+
+
+}
